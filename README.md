@@ -1,4 +1,4 @@
-# simplecalculator
+# Simple Calculator
 
 ## Project setup
 ```
